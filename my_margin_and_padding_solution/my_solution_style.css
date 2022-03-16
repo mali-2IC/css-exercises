@@ -1,0 +1,24 @@
+.body {
+    max-width: 720px;
+    margin: 0;
+}
+.div1 {
+    background: rgb(225, 130, 238);
+    border: 3px solid rgb(0, 255, 0);
+    padding: 40px;
+    margin: 15px;
+}
+
+.div2 {
+ 
+    border: 3px solid rgb(0, 174, 255);
+    background: rgba(47, 0, 255, 0.438);
+    margin-bottom: 48px;
+}
+
+.div3 {
+    border: black solid 6px;
+    background-color: rgb(196, 139, 90);
+    margin-left: 250px;
+    padding: 40px;
+}
