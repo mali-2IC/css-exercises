@@ -1,0 +1,21 @@
+body {
+    max-width: 640px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+div { 
+background-color: azure;
+border: 4px solid rgb(177, 175, 175);
+padding: 10px;
+
+}
+
+.one {
+    margin-top: 20px;
+}
+
+.three {
+
+    text-align: center;
+}
